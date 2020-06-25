@@ -1,0 +1,9 @@
+Package: com.icraze.lpmpad
+Name: LPMPad
+Depends: mobilesubstrate, firmware (>=11.0), com.opa334.ccsupport
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Add low power mode toggle to the CC on iPads/iPods!
+Maintainer: iCraze
+Author: iCraze
+Section: Tweaks
